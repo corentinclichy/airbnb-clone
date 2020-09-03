@@ -1,5 +1,7 @@
 import React from "react";
 import "./App.css";
+import Home from "./Home";
+import Header from "./Header";
 
 /**
  * TODO: 
@@ -9,8 +11,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Airbnb Clone 🏡 </h1>
-      <p>Test</p>
+      <Header />
+      <Home />
     </div>
   );
 }

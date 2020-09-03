@@ -5,14 +5,15 @@ import Header from "./Header";
 
 /**
  * TODO: 
- - 
+ - Finish the header design
+ - Understand better responsive css design
  */
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Home />
+      {/* <Home /> */}
     </div>
   );
 }

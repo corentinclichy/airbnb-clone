@@ -9,8 +9,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>This is a test</h1>
-      <p>auto push to another</p>
+      <h1>Airbnb Clone 🏡 </h1>
+      <p>Test</p>
     </div>
   );
 }
